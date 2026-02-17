@@ -1,0 +1,3 @@
+Algorithm,Frequency_MHz,Throughput_Mbps,Efficiency
+HB-2 (pipe-line),243.902,1951.21,0.3
+HB-2 (encryption) / pipe-line,317.46,5079.36,23.19

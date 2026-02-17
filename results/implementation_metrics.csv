@@ -1,0 +1,5 @@
+Algorithm,key_size_bits,block_size_bits,LUTs,FFs,Slices,Frequency_MHz,Device_part,Device_family
+HB-2 (pipe-line architecture),128,128,16857,17623,4887,243.902,xc7a200tffg1156-3,Artix-7
+HB-2 (0% area architecture / pipe-line),128,128,17871,5814,5066,34.5,xc7a200tffg1156-3,Artix-7
+HB-2 (encryption) / pipe-line,128,16,612,485,219,317.46,xc7a200tffg1156-3,Artix-7
+HB-2 (encryption) / no pipe-line,128,16,704,64,223,137.0,xc7a200tffg1156-3,Artix-7
