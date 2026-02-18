@@ -127,7 +127,9 @@ The approval of the thesis by the Department does not imply
 endorsement of the views expressed by the author.
 
 © Copyright of the thesis text: Georgios Ntakos, 2024
+
 © Copyright of the thesis topic: SCYTALE Group,
   Department of Computer Engineering and Informatics,
   University of Patras.
+  
 All rights reserved.
