@@ -117,7 +117,17 @@ If you use this work in academic research, please cite:
 
 ### 📜 License
 
-This project is licensed under the BSD 3-Clause License.
+This work was developed as part of a Diploma Thesis (Integrated
+Master’s Degree) at the Department of Computer Engineering and
+Informatics (CEID), University of Patras, Greece, under the
+supervision of Prof. Nikolaos Sklavos, within the SCYTALE
+Research Group.
 
-Copyright (c) 2024, Georgios Ntakos.
+The approval of the thesis by the Department does not imply
+endorsement of the views expressed by the author.
+
+© Copyright of the thesis text: Georgios Ntakos, 2024
+© Copyright of the thesis topic: SCYTALE Group,
+  Department of Computer Engineering and Informatics,
+  University of Patras.
 All rights reserved.
