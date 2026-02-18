@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Hummingbird-2 FPGA Implementation for Lightweight Authenticated Encryption in IoT"
+message: "If you use this repository, please cite the corresponding diploma thesis."
+type: software
+
+authors:
+  - family-names: "Ntakos"
+    given-names: "Georgios"
+
+affiliation: "Department of Computer Engineering and Informatics, University of Patras"
+
+keywords:
+  - FPGA
+  - VHDL
+  - Cryptography
+  - Lightweight Cryptography
+  - IoT Security
+  - Hummingbird-2
+
+date-released: 2024-10-01
+
+license: "BSD-3-Clause"
