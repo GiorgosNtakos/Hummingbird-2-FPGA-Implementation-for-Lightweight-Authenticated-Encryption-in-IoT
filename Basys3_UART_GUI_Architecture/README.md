@@ -332,11 +332,11 @@ images/
 Potential future extensions include:
 
 - AXI-based integration
-- DMA support
-- Hardware/software co-design on Zynq platforms
-- Higher-speed communication interfaces
-- Throughput-oriented parallel architecture variants
-- Comparative evaluation against other lightweight cryptographic algorithms
+- Hardware/software co-design on Zynq platforms OR Integration of a MicroBlaze soft processor for embedded accelerator control
+-  Higher-bandwidth communication interfaces to overcome UART limitations
+- Throughput-oriented parallel HB2 architectures targeting high-performance applications
+- Standalone embedded operation without requiring an external PC
+- Comparative FPGA evaluation against other lightweight cryptographic algorithms
 
 ---
 
