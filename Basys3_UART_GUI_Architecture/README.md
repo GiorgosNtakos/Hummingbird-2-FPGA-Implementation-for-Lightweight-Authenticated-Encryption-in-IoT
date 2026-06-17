@@ -346,7 +346,7 @@ Potential future extensions include:
 
 MSc Thesis Extension Project
 
-University of West Attica
+University of Patras - Computer Engineer & Informatics Department
 
 FPGA-Based Lightweight Cryptography Research
 
