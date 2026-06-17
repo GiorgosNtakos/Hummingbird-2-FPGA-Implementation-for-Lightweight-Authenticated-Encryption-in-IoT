@@ -57,10 +57,8 @@ Hummingbird-2 is a hybrid lightweight authenticated encryption algorithm designe
 - Target FPGA model: Xilinx Artix-7 (xc7a200tffg1156-3)  
 - Implementation language: VHDL  
 - Simulation: ModelSim – Intel FPGA Starter Edition 10.5b  
-- Synthesis & Implementation: Xilinx Vivado 2019.2 WebPACK Edition  
-
-⚠️ The design has been validated on FPGA models. Future work includes deployment on a physical Basys3 Artix-7 development board.
-
+- Synthesis & Implementation: Xilinx Vivado 2019.2 WebPACK Edition
+- 
 ---
 
 ### 📂 Repository Structure
